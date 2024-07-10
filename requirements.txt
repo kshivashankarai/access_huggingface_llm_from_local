@@ -1,0 +1,9 @@
+llama-cpp-python 
+huggingface-hub 
+accelerate
+peft 
+bitsandbytes 
+transformers 
+trl 
+
+-e .
